@@ -1,0 +1,29 @@
+h1{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h2{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.titnav {
+    color: white;
+}
+
+p{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+}
+
+ul {
+    text-align: right;
+}
+
+.imainicial{
+    width: 1349px;
+    height: 550px;
+}
