@@ -13,10 +13,8 @@ h2{
 }
 
 p{
-    margin-top: 50px;
-    margin-left: 200px;
-    margin-right: 200px;
     text-align: justify;
+    vertical-align: center;
 }
 
 ul {
@@ -27,3 +25,25 @@ ul {
     width: 1349px;
     height: 550px;
 }
+
+.foto1, .foto2, .foto3{
+    margin: 15px;
+    border-radius: 25px;
+}
+
+.foto1{
+    float: left;
+}
+
+.foto2{
+    float: right;
+}
+
+.foto3{
+    float: left;
+}
+
+h5, h6 {
+    text-align: center;
+}
+
